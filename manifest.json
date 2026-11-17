@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Thipaw Delivery",
+  "orientation": "any",
+  "scope": "/",
+  "id": "/",
+  "short_name": "Thipaw",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Thipaw Delivery - Food, Bike Taxi & Custom Orders in Hsipaw."
+}
+ 
